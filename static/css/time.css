@@ -1,0 +1,38 @@
+.container {
+    margin: 0 auto;
+    width: 600px;
+    min-height:100px;
+}
+
+.title {
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 25px;
+    width: 600px;
+    height:100px;
+    color:rgb(52, 52, 52);
+    border: solid 3px;
+    border-color: rgb(213, 213, 213);
+    background-color: rgb(187, 255, 232);
+}
+
+.display {
+    height:200px;
+    color: white;
+    box-sizing: border-box;
+    padding: 50px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size:30px;
+    border:solid 5px;
+    border-color: blueviolet;
+    background-color: rgb(45, 45, 45);
+}
+
+span {
+    display: block;
+    margin-bottom: 20px;
+}
